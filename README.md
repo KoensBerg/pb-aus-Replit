@@ -2,7 +2,7 @@
 ## ДЗ и рабочий код по курсу «Основы программирования»
 Извлечено из `Replit`
 
-### Блок 1. [Рабочий код из Replit](./basics_1-Main/)
+### Блок 1. [Рабочий код](./basics_1-Main/)
 ##### 1.1. [Переменные](./basics_1-Main//1-MyFirstNode.js)
 ##### 1.2. [Условная конструкция if-else](./basics_1-Main/2-itCaseUpload.js)
 ##### 1.3. [Массив с книгами](./basics_1-Main/3-booksMassive.js)
@@ -12,7 +12,7 @@
 ##### 1.7. [Массив с книгами-массивами](./basics_1-Main/7-books-Massive.js)
 ##### 1.8. [Функция для возведенмя в степень](./basics_1-Main/8-exponentiation-function.js)
 
-### Блок 2. [Все ДЗ из Replit](./basics_2-Homework/)
+### Блок 2. [Все ДЗ](./basics_2-Homework/)
 Исходные задания Нетологии лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Блок 3. [Виселица](./basics_3-Gallows/)
 ### Блок 4. [Диплом](./basics_4-Diploma/)
