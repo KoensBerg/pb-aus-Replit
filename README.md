@@ -1,8 +1,5 @@
 # Programming Basics :: Replit
 ## ДЗ и рабочий код по курсу «Основы программирования»
-
-`pb` = `Programming Basics` (Основы программирования)
-
 Извлечено из `Replit`
 
 ### Блок 1. [Рабочий код из Replit](./basics_1-Main/)
