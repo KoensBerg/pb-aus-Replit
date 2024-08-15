@@ -42,4 +42,4 @@
 
 ***
 
-При выполнении задания придерживайтесь [правил оформления кода на JavaScript]([/codestyle.md](https://github.com/netology-code/pb-homeworks/blob/master/codestyle.md)).
+При выполнении задания придерживайтесь [правил оформления кода на JavaScript](https://github.com/netology-code/pb-homeworks/blob/master/codestyle.md)).
