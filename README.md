@@ -17,6 +17,7 @@
 
 ### Все ДЗ
 1. [Переменные и числа](./basics_2-Homework/1-variables/README.md)
+2. [Логический тип и ветвление](./basics_2-Homework/2-if-and-boolean/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
