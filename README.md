@@ -1,6 +1,6 @@
 # Programming Basics :: Replit
 ## ДЗ и рабочий код по курсу «Основы программирования»
-Извлечено из `Replit`
+Извлечено из `Replit` (см. папку [Основы программирования](https://replit.com/repls/folder/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
 
 ### Рабочий код
 1. [Переменные](./basics_1-Main//1-MyFirstNode.js)
@@ -16,6 +16,11 @@
 11.  [Как узнать длину объекта](./basics_1-Main/11-length-of-object.js)
 
 ### Все ДЗ
+#### [Переменные и числа](./basics_2-Homework/1-variables/README.md)
+- [Задача 1](./basics_2-Homework/1-variables/task-1.js)
+- [Задача 2](./basics_2-Homework/1-variables/task-2.js)
+- [Задача 3](./basics_2-Homework/1-variables/task-3.js)
+
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
 ### Диплом
