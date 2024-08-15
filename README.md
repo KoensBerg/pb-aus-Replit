@@ -17,9 +17,6 @@
 
 ### Все ДЗ
 1. [Переменные и числа](./basics_2-Homework/1-variables/README.md)
-- [Задача 1](./basics_2-Homework/1-variables/task-1.js)
-- [Задача 2](./basics_2-Homework/1-variables/task-2.js)
-- [Задача 3](./basics_2-Homework/1-variables/task-3.js)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
