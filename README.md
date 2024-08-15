@@ -16,7 +16,7 @@
 11.  [Как узнать длину объекта](./basics_1-Main/11-length-of-object.js)
 
 ### Все ДЗ
-#### [Переменные и числа](./basics_2-Homework/1-variables/README.md)
+1. [Переменные и числа](./basics_2-Homework/1-variables/README.md)
 - [Задача 1](./basics_2-Homework/1-variables/task-1.js)
 - [Задача 2](./basics_2-Homework/1-variables/task-2.js)
 - [Задача 3](./basics_2-Homework/1-variables/task-3.js)
