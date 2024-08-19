@@ -7,11 +7,10 @@ let messages = [
   'Но дело движется.'
 ];
 
-// искомое сообщение и замена
+// автоматизируем поиск и замену
 let searching = 'Ленюсь.';
 let replacement = 'Стараюсь.';
 
-// находим сообщение и заменяем его
 let idx = messages.indexOf(searching);
 messages[idx] = replacement;
 

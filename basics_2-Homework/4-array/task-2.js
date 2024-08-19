@@ -1,4 +1,4 @@
-// Исходный мессенджер
+// исходный мессенджер
 let messages = [
   'Привет! Есть ли новости?',
   ':)',
@@ -7,13 +7,13 @@ let messages = [
   'Но дело движется.',
 ];
 
-// Вносим изменения
-messages.push('Готово!'); // пушим в конец
-let idx = messages.indexOf('Ленюсь.'); // находим индекс сообщения
-messages[idx] = 'Стараюсь.'; // заменяем сообщение по индексу
-messages.splice(1, 1); // вырезаем лишнее
+// вносим изменения
+messages.push('Готово!');
+let idx = messages.indexOf('Ленюсь.');
+messages[idx] = 'Стараюсь.';
+messages.splice(1, 1);
 
-// Выводим диалог на печать
+// выводим диалог на печать
 for (let message of messages) {
   console.log(`— ${message}`);
 }
