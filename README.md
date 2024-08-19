@@ -19,6 +19,7 @@
 1. [Переменные и числа](./basics_2-Homework/1-variables/README.md)
 2. [Логический тип и ветвление](./basics_2-Homework/2-if-and-boolean/README.md)
 3. [Строки. Алгоритмы. Как отлаживать код](./basics_2-Homework/3-strings-and-debug/README.md)
+4. [Массивы и базовые методы работы с ними](./basics_2-Homework/4-array/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
