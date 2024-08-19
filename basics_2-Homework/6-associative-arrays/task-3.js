@@ -27,5 +27,5 @@ user.chats.wife = [
 
 // напечатаем все сообщения из чата с женой
 user.chats.wife.forEach(elem => {
-  console.log(`${elem.author}: ${elem.text}`)
+  console.log(`${elem.author}: ${elem.text}`);
 });
