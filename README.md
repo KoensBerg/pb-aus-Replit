@@ -20,6 +20,7 @@
 2. [Логический тип и ветвление](./basics_2-Homework/2-if-and-boolean/README.md)
 3. [Строки. Алгоритмы. Как отлаживать код](./basics_2-Homework/3-strings-and-debug/README.md)
 4. [Массивы и базовые методы работы с ними](./basics_2-Homework/4-array/README.md)
+5. [Циклы](./basics_2-Homework/5-cycles/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
