@@ -21,6 +21,7 @@
 3. [Строки. Алгоритмы. Как отлаживать код](./basics_2-Homework/3-strings-and-debug/README.md)
 4. [Массивы и базовые методы работы с ними](./basics_2-Homework/4-array/README.md)
 5. [Циклы](./basics_2-Homework/5-cycles/README.md)
+6. [Ассоциативные массивы (Объекты)](./basics_2-Homework/6-associative-arrays/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
