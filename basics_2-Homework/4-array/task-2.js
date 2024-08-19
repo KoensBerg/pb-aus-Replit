@@ -1,4 +1,6 @@
-// исходный мессенджер
+// - - - - - - - - - - - - - - - - -
+// #2 - Вносим изменения в переписку
+// - - - - - - - - - - - - - - - - -
 let messages = [
   'Привет! Есть ли новости?',
   ':)',
@@ -13,7 +15,7 @@ let idx = messages.indexOf('Ленюсь.');
 messages[idx] = 'Стараюсь.';
 messages.splice(1, 1);
 
-// выводим диалог на печать
-for (let message of messages) {
-  console.log(`— ${message}`);
+// выводим диалог на печать (метод 2)
+for (let position in messages) {
+  console.log(`— ${messages[position]}`);
 }
