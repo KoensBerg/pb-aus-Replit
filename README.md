@@ -13,7 +13,7 @@
 8. [Функция возведения в степень](./basics_1-Main/8-exponentiation-function.js)
 9. [Поприветствуем всех](./basics_1-Main/9-greatingAll-function.js)
 10. [rest-оператор ( ...elements )](./basics_1-Main/10-rest-elements.js)
-11.  [Как узнать длину объекта](./basics_1-Main/11-length-of-object.js)
+11. [Как узнать длину объекта](./basics_1-Main/11-length-of-object.js)
 
 ### Все ДЗ
 1. [Переменные и числа](./basics_2-Homework/1-variables/README.md)
@@ -22,6 +22,7 @@
 4. [Массивы и базовые методы работы с ними](./basics_2-Homework/4-array/README.md)
 5. [Циклы](./basics_2-Homework/5-cycles/README.md)
 6. [Ассоциативные массивы (Объекты)](./basics_2-Homework/6-associative-arrays/README.md)
+7. [Функция без параметров. Область видимости](./basics_2-Homework/7-function-no-args/)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
