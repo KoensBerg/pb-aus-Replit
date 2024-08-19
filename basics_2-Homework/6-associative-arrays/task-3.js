@@ -1,5 +1,5 @@
 // - - - - - - - - - - - - - -
-// #3 - 
+// #3 - Добавим список чатов
 // - - - - - - - - - - - - - -
 const user = {
   name: 'Лев Толстой',
@@ -26,4 +26,6 @@ user.chats.wife = [
 ]
 
 // напечатаем все сообщения из чата с женой
-user.chats.wife.forEach(elem => console.log(`${elem.author}: ${elem.text}`));
+user.chats.wife.forEach(elem => {
+  console.log(`${elem.author}: ${elem.text}`)
+});
