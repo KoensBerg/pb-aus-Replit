@@ -43,4 +43,5 @@ const allMessages = [
   { author: "void", text: "Ничего не понравилось.", edited: false }
 ];
 
+// тестируем функцию
 console.log(getStatistic(allMessages));
