@@ -26,5 +26,19 @@
 8. [Параметры и возвращаемое значение](./basics_2-Homework/8-function-params-returns/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
-### Виселица
-### Диплом
+
+### Дипломная работа
+
+Папка с проектом на GitHub:
+- [описание проекта](./basics_3-Diploma/README.md)
+- [стартовый код](./basics_3-Diploma/start/)
+- [готовый код](./basics_3-Diploma/ready-2024-08/) - август 2024
+- [готовый код](./basics_3-Diploma/ready-2023-03-22/) - март 2023
+
+Описание проекта [на аккаунте Нетологии](https://github.com/netology-code/pb-diplom)
+
+Стартовый код проекта на `Replit`:
+- [Нетология]((https://replit.com/@netology_pb/Diplom-startovyi-kod)) (Feb 20, 2019)
+- [мой форк](https://replit.com/@integro/Diplom1-Startovyi-kod)
+
+[Мой готовый код](https://replit.com/@integro/Diplom25-Gotovyi-kod) на `Replit` (март 2023)
