@@ -1,4 +1,4 @@
-# Programming Basics :: Replit
+# Programming Basics :: ДЗ + Диплом
 ## ДЗ и рабочий код по курсу «Основы программирования»
 Извлечено из `Replit` (см. папку [Основы программирования](https://replit.com/repls/folder/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
 
@@ -29,16 +29,16 @@
 
 ### Дипломная работа
 
-Папка с проектом на GitHub:
-- [описание проекта](./basics_3-Diploma/README.md)
-- [стартовый код](./basics_3-Diploma/start/)
-- [готовый код](./basics_3-Diploma/ready-2024-08/) - август 2024
-- [готовый код](./basics_3-Diploma/ready-2023-03-22/) - март 2023
+1. Папка с проектом на GitHub:
+  - [описание проекта](./basics_3-Diploma/README.md)
+  - [стартовый код](./basics_3-Diploma/start/)
+  - [готовый код](./basics_3-Diploma/ready-2024-08/) - август 2024
+  - [готовый код](./basics_3-Diploma/ready-2023-03-22/) - март 2023
 
-Описание проекта [на аккаунте Нетологии](https://github.com/netology-code/pb-diplom)
+2. Описание проекта [на аккаунте Нетологии](https://github.com/netology-code/pb-diplom)
 
-Стартовый код проекта на `Replit`:
-- [Нетология]((https://replit.com/@netology_pb/Diplom-startovyi-kod)) (Feb 20, 2019)
-- [мой форк](https://replit.com/@integro/Diplom1-Startovyi-kod)
+3. Стартовый код проекта на `Replit`:
+  - [Нетология]((https://replit.com/@netology_pb/Diplom-startovyi-kod)) (Feb 20, 2019)
+  - [мой форк](https://replit.com/@integro/Diplom1-Startovyi-kod)
 
-[Мой готовый код](https://replit.com/@integro/Diplom25-Gotovyi-kod) на `Replit` (март 2023)
+4. [Мой готовый код](https://replit.com/@integro/Diplom25-Gotovyi-kod) на `Replit` (март 2023)
