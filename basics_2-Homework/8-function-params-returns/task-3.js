@@ -21,6 +21,7 @@ function getStatistic(chat) {
   return { edited, nonEdited, totalMessages }
 }
 
+// тестовый чат
 const allMessages = [
   { author: "zloy-zloy", text: "А у кого какой мобильный??", edited: true },
   { author: "zloy-zloy", text: "Я с андроидом. Уже 3 года живёт, он самым крепким оказался, пережил 2 утопления.", edited: false },
