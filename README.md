@@ -23,6 +23,7 @@
 5. [Циклы](./basics_2-Homework/5-cycles/README.md)
 6. [Ассоциативные массивы (Объекты)](./basics_2-Homework/6-associative-arrays/README.md)
 7. [Функция без параметров](./basics_2-Homework/7-function-no-args/)
+8. [Параметры и возвращаемое значение](./basics_2-Homework/8-function-params-returns/README.md)
 
 Исходные задания `Нетологии` лежат [здесь](https://github.com/netology-code/pb-homeworks/)
 ### Виселица
