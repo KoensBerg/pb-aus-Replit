@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  width: 50%;
+  max-width: 1500px;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+a {
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+h2 {
+  color: rgb(155, 29, 29);
+  margin-left: 20px;
+}
