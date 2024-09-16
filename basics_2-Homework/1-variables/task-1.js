@@ -1,5 +1,8 @@
-let username = 'LeoTolstoy';
-let bonusBalance = 131;
+let username;
+let bonusBalance;
 
-console.log(`Пользователь ${username}`);
-console.log(`Баланс ${bonusBalance}`);
+username = 'Leo Tolstoy';
+bonusBalance = 131;
+
+console.log('Пользователь ' + username);
+console.log('Баланс ' + bonusBalance);

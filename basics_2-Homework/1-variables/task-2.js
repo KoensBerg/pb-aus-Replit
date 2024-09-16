@@ -1,4 +1,5 @@
 let bonusBalance = 131;
+
 let pointsForPurchase = 50; // баллы за каждую покупку
 let pointsBurningEveryDay = 3 // ежедневно сгорают
 

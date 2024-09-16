@@ -1,4 +1,5 @@
 let bonusBalance = 131;
+
 let marshmallowPerKilo = 80; // стоимость кг пастилы
 
 let moneyLeft = bonusBalance % marshmallowPerKilo; // останется денег
