@@ -25,7 +25,6 @@ bonusBalance += totalPointsAdded - totalPoinstBurned;
 
 console.log(`Итоговый баланс через ${totalDays} дней: ${bonusBalance}`);
 
-
 // - - - - - - - - - - - - - - - - - - - -
 
 let marshmallowPerKilo = 80; // стоимость кг пастилы
