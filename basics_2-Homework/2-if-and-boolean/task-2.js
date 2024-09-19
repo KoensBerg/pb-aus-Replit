@@ -1,4 +1,5 @@
-let user, orderOwner;
+let user = '';
+let orderOwner = '';
 
 user = 'netologist';
 orderOwner = 'leo_tolstoy';

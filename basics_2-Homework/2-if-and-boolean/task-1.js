@@ -1,16 +1,17 @@
-let userName, userBalance;
+let userName = '';
+let userBalance = 0;
 
 userName = 'Vova';
-userBalance = 20;
+userBalance = 90;
 
 if (userName === 'admin') {
-  console.log('Администратор');
-} else if (userName === '') {
-  console.log('Гость');
+  console.log('администратор');
+} else if (!userName) {
+  console.log('гость');
 } else if (userBalance > 5000) {
-  console.log('ВИП-клиент');
+  console.log('Вип-клиент');
 } else if (userBalance > 1000) {
   console.log('Постоянный покупатель');
 } else {
-  console.log('Конь в пальто');
+  console.log('Обычный покупатель');
 }

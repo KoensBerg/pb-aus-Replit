@@ -1,21 +1,27 @@
-let bonusBalance, orderAmount, purchasesPerMonth;
+// Объявим переменные
+let bonusBalance = 0; // бонусный баланс
+let orderAmount = 0; // сумма заказа
+let purсhasesPerThisMonth = 0; // количество покупок в этом месяце
 
-let standartPercent = 10; // стандартное начисление процентов
-let elevatedPercent = 20; // повышенное начисление процентов
-let bonusForFrequentPurchases = 5; // добавка за частые покупки
+let standartPercentage = 10; // стандартное начисление процентов
+let increasedPercentage = 20; // повышенное начисление процентов
+let additionalPercentage = 5; // добавка за частые покупки в процентах
+let totalPercentage = 0; // итоговое начисление в процентах
 
-bonusBalance = 600; // на балансе
-orderAmount = 3000; // сумма заказа
-purchasesPerMonth = 2; // покупка за месяц
+// Тестовые значения
+bonusBalance = 500;
+orderAmount = 3000;
+purсhasesPerThisMonth = 2; // вторая покупка в этом месяце
 
-let percent = standartPercent; // процент за текущую покупку
-
+// Рассчитаем итоговый процент
 if (bonusBalance > 5000) {
-  percent = elevatedPercent;
+  totalPercentage = increasedPercentage;
+} else {
+  totalPercentage = standartPercentage;
 }
 
-if (purchasesPerMonth > 1) {
-  percent += bonusForFrequentPurchases;
+if (purсhasesPerThisMonth > 1) {
+  totalPercentage += additionalPercentage;
 }
 
-console.log(`Процент от покупки: ${percent}`);
+console.log(`Процент от покупки: ${totalPercentage}`);
