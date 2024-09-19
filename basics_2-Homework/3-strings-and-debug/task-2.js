@@ -1,13 +1,14 @@
 // определим переменные
 let username = '';
 let accountStatus = '';
-let accountStatusRu = ''
-let cashbackPercentage = 0; // %
+let accountStatusRu = '';
+let cashbackPercentage = 0;
 
 // подставим тестовые значения
-username = 'Viktor';
+username = 'Leo_Tolstoy';
 accountStatus = '';
 
+// вычислим статус и размер кэшбэка
 switch (accountStatus) {
   case 'extended':
     accountStatusRu = 'улучшенный';
