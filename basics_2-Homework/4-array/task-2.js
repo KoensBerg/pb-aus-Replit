@@ -9,13 +9,12 @@ const messages = [
   'Но дело движется.',
 ];
 
-// вносим изменения
-messages.push('Готово!');
-let idx = messages.indexOf('Ленюсь.');
-messages[idx] = 'Стараюсь.';
-messages.splice(1, 1);
+messages.push('Готово!'); // добавил в конец массива
+messages[3] = 'Стараюсь'; // заменил «Ленюсь» на «Стараюсь»
+let index = messages.indexOf(':)'); // нашёл индекс «:)»
+messages.splice(index, 1); // удалил сообщение по индексу
 
-// выводим диалог на печать (метод 2)
+// метод 2
 for (let position in messages) {
   console.log(`— ${messages[position]}`);
 }

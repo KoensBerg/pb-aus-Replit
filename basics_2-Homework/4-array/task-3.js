@@ -18,4 +18,4 @@ let idx = messages.indexOf(searching);
 messages[idx] = replacement;
 
 // выводим диалог на печать (метод 3)
-messages.forEach(elem => console.log(`— ${elem}`))
+messages.forEach(elem => console.log(`— ${elem}`));
