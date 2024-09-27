@@ -9,18 +9,15 @@ const messages = [
 ];
 
 // создадим пустой массив
-const arrOfObjects = [];
+const chat = [];
 
 // преобразуем массив массивов в массив объектов
-for (let i = 0; i < messages.length; i++) {
-  const obj = {};
-  obj.author = messages[i][0];
-  obj.message = messages[i][1];
-
-  arrOfObjects.push(obj);
-}
+messages.forEach(item => {
+  const obj = { author: item[0], text: item[1] };
+  chat.push(obj);
+});
 
 // распечатаем сообщения (author: message)
-arrOfObjects.forEach(elem => {
-  console.log(`${elem.author}: ${elem.message}`);
+chat.forEach(item => {
+  console.log(`${item.author}: ${item.text}`);
 });
