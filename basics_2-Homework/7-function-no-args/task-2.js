@@ -17,9 +17,10 @@ const user = {
 // Функция для печати сообщений
 function printMessages() {
   console.log(`Всего сообщений: ${user.messages.length}`);
+  console.log('- - - - - - - - - -');
 
   user.messages.forEach(elem => {
-    console.log(`${elem.from}: ${elem.text}`);
+    console.log(`${elem.from} | ${elem.text}`);
   });
 }
 
