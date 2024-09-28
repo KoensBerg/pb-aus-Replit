@@ -2,8 +2,7 @@
 // Задача 1 - Написать функцию с параметрами
 // - - - - - - - - - - - - - - - - - - - - -
 function getReputation(likes, dislikes, edited, total) {
-  // если некорректные параметры
-  if (edited > total || likes < 0 || dislikes < 0 || edited < 0 || total < 0) {
+  if (edited > total) { // если некорректные параметры
     return false;
   }
 
