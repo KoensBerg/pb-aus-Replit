@@ -6,19 +6,22 @@ function getStatistic(chat) {
     return 'Чат не существует либо в чате нет сообщений';
   }
 
-  let totalMessages = chat.length;
+  // определим переменные
+  let total = chat.length;
   let edited = 0;
   let nonEdited = 0;
 
-  chat.forEach(elem => {
-    if (elem.edited) {
+  // отредактированных и неотредактированных сообщений
+  chat.forEach(item => {
+    if (item.edited) {
       edited++;
     } else {
       nonEdited++;
     }
   });
 
-  return { edited, nonEdited, totalMessages }
+  // вернём объект со статистикой
+  return { total, edited, nonEdited };
 }
 
 // тестовый чат
